@@ -23,7 +23,7 @@
     "progress-stream": "^2.0.0",
     "sanitize-filename": "^1.6.3",
     "ytdl-core": "4.11.5",
-    "ffmpeg-static": "^5.2.0",
+    "@ffmpeg-installer/ffmpeg": "^1.1.0"
   },
   "author": {
     "name": "ytb2mp3"
